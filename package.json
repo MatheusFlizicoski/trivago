@@ -1,0 +1,12 @@
+{
+  "name": "projeto_trivago",
+  "version": "1.0.0",
+  "description": "Projeto com use de Framework do curso de TSI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matheus Flizicoski Fabian",
+  "license": "ISC"
+}
