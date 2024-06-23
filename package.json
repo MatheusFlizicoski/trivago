@@ -1,12 +1,23 @@
 {
   "name": "projeto_trivago",
   "version": "1.0.0",
-  "description": "Projeto com use de Framework do curso de TSI",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Matheus Flizicoski Fabian",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "jquery": "^3.7.1",
+    "jquery-mask-plugin": "^1.14.16",
+    "xyz": "^5.0.0"
+  },
+  "devDependencies": {
+    "abc": "^0.6.1",
+    "gh-pages": "^6.1.1"
+  }
 }
