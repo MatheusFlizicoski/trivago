@@ -1,7 +1,13 @@
 # Trivago
 Projeto 2 período TSI Desenvolvimento de Paginas Web
 
+Aluno: Matheus Flizicoski Fabian
+
 Figma: https://www.figma.com/file/pV0IKlVMHALw9aWGa5vXyU/Prot%C3%B3tipo-Trivago?type=design&node-id=27%3A511&mode=dev&t=cPk7VYK83ZbGaECC-1
+
+Github Pages: https://matheusflizicoski.github.io/trivago/index.html
+
+Video Youtube: 
 
 ## Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
@@ -29,7 +35,7 @@ Figma: https://www.figma.com/file/pV0IKlVMHALw9aWGa5vXyU/Prot%C3%B3tipo-Trivago?
 - [NAO] ID 17 - Utiliza as metodologias BEM (Block Element Modifier) ou SMACSS (Scalable and Modular Architecture for CSS) para organizar e estruturar os estilos CSS de forma eficiente, garantindo a reutilização de estilos, a legibilidade do código e a manutenção sustentável do projeto.
 
 #### RA4 - Aplicar bibliotecas de funções e componentes em JavaScript para aprimorar a interatividade de páginas web.
-- [X] ID 18 - Utiliza a biblioteca jQuery para manipular o DOM e aprimorar a interatividade das páginas web, implementando funcionalidades como eventos, animações e manipulação de elementos HTML de forma eficiente. 
+- [] ID 18 - Utiliza a biblioteca jQuery para manipular o DOM e aprimorar a interatividade das páginas web, implementando funcionalidades como eventos, animações e manipulação de elementos HTML de forma eficiente. 
 - [X] ID 19 - Seleciona e integra com sucesso um plugin jQuery, como o jQuery Mask Plugin ou outro plugin relevante para o projeto, a fim de melhorar a funcionalidade ou a aparência de elementos específicos em uma página web. 
 - [NAO] ID 20 - Utiliza bibliotecas de web components, como Lit, para criar componentes reutilizáveis e encapsulados, melhorando a modularidade e a manutenibilidade das páginas web. 
 - [NAO] ID 21 - Utiliza uma biblioteca de componentes prontos, como Material Web Components ou outra de escolha, ou então, algum componente independente (standalone) a fim de oferecer funcionalidades específicas sem a necessidade de estar integrado a uma biblioteca completa.
