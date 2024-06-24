@@ -7,7 +7,7 @@ Figma: https://www.figma.com/file/pV0IKlVMHALw9aWGa5vXyU/Prot%C3%B3tipo-Trivago?
 
 Github Pages: https://matheusflizicoski.github.io/trivago/index.html
 
-Video Youtube: 
+Video Youtube: https://www.youtube.com/watch?v=mifVj2jd5YE
 
 ## Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
